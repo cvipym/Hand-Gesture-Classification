@@ -12,7 +12,7 @@ conda create -n gesture python=3.9 -y
 conda activate gesture
 ```
 Install PyTorch
-아래 링크에서 본인 컴퓨터 환경과 맞는 pytorch 설치하기
+아래 링크에서 본인 컴퓨터 환경과 맞는 pytorch 설치하기  
 Visit [PyTorch Previous Versions](https://pytorch.org/get-started/previous-versions/) to install the version compatible with your system.
 
 Install packages with pip
