@@ -1,0 +1,9 @@
+mediapipe == 0.10.10
+numpy == 1.26.3
+pandas == 2.1.4
+networkx == 3.2.1
+matplotlib == 3.8.0
+opencv-python == 4.9.0
+seaborn
+scikit-learn
+tqdm == 4.65.0
